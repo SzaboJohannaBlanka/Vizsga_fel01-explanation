@@ -8,7 +8,9 @@ def feladat01() -> None:
 
     '''
     nev_pasw:str = nev[0].upper() + nev[1:4].lower() -> a karakterlánc 0.indexének a nagybetűs változata, és az azt követő 3 betűnek a kisbetűs változata (A[0] + bcd[1:4])
+    
         VAGY
+        
     nev_pasw:str = nev[0:4].capitalize() -> a karakterlánc visszaadja ugyan azt a stringet és átkonvertálja az első betűjét nagybetűsre (Abcd[0:4])
         a 8.sort csak túlkomplikáltad >-<
     '''
