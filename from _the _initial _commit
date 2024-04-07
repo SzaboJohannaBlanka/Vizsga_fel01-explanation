@@ -12,7 +12,6 @@ def feladat01() -> None:
         VAGY
         
     nev_pasw:str = nev[0:4].capitalize() -> a karakterlánc visszaadja ugyan azt a stringet és átkonvertálja az első betűjét nagybetűsre (Abcd[0:4])
-        a 8.sort csak túlkomplikáltad >-<
     '''
 
     #kor_pasw:int = int(kor[-2:])
